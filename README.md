@@ -7,5 +7,5 @@
 
 **Data Source**: The dataset provided for this project includes user interaction data from Google Analytics at each step of the property valuation funnel for November 2022 across three AVIV entities: Meilleurs Agents, Se Loger, and Immowelt.
 
-** Deliverables** : CaseStudy Report, Presentation slide, Tableau dashboard.
+**Deliverables** : CaseStudy Report, Presentation slide, Tableau dashboard.
 [Dashboard_link](https://public.tableau.com/app/profile/dibyani.sahu7767/viz/Funnel_Analysis_17351489781640/Story1)
