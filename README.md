@@ -1,11 +1,13 @@
 # Funnel-Analysis
 **Project Title**: Whitelabel Estimation Funnel Implementation
 
-**Objective**: To implement a whitelabeled property valuation funnel on Immoweb, optimizing user engagement and streamlining performance tracking across AVIV entities.
+**Objective**: To implement a whitelabeled property valuation funnel on a leading real estate platform in Belgium (Platform A), optimizing user engagement and streamlining performance tracking across multiple regional brands within a unified property group.
 
-**Project Context**: This project is about creating a standardized property valuation tool and launching it on Immoweb in Belgium. Currently, each entity—Meilleurs Agents, Se Loger, and Immowelt—utilizes unique variations of the estimation funnel. The goal is to streamline these processes while maintaining entity-specific requirements, ensuring consistent functionality and enhanced user experience. The project involves collaboration with product teams to monitor performance, ensure proper data tracking, and optimize user engagement through A/B testing and dashboard development.
+**Project Context**: This initiative focused on building a standardized property valuation experience and launching it on Platform A. Previously, each brand—Brand X, Brand Y, and Brand Z—operated its own version of the estimation funnel, resulting in inconsistent performance and tracking. The goal was to unify and streamline the process while preserving brand-specific requirements, ensuring consistent functionality, reliable data tracking, and a seamless user experience.
 
-**Data Source**: The dataset provided for this project includes user interaction data from Google Analytics at each step of the property valuation funnel for November 2022 across three AVIV entities: Meilleurs Agents, Se Loger, and Immowelt.
+The project involved close collaboration with cross-functional product and analytics teams to monitor funnel performance, set up tracking infrastructure, and improve conversion through iterative A/B testing and visual reporting.
+
+**Data Source**: User interaction data from Google Analytics, covering the property valuation funnel steps for November 2022 across the three brands (Brand X, Brand Y, and Brand Z).
 
 **Deliverables** : CaseStudy Report, Presentation slide, Tableau dashboard.
 [Dashboard_link](https://public.tableau.com/app/profile/dibyani.sahu7767/viz/Funnel_Analysis_17351489781640/Story1)
