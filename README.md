@@ -1,4 +1,4 @@
-# Funnel-Analysis
+# Funnel-Analysis [Dashboard Link(https://public.tableau.com/views/Funnel_Analysis_17351489781640/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 # 🏡 Whitelabel Estimation Funnel Implementation – Real Estate Analytics Project
 
 A data-driven initiative to unify and optimize the property valuation funnel across multiple brands under one of Belgium’s leading real estate platforms.
@@ -50,7 +50,7 @@ Previously, the three regional brands (**Brand X**, **Brand Y**, and **Brand Z**
 
 - 🗂️ **Case Study Report** – Deep-dive analysis and findings  
 - 🖼️ **Presentation Slides** – For cross-team and leadership review  
-- 📊 **Tableau Dashboard** – [Interactive visualization of funnel metrics](Dashboard_link)
+- 📊 **Tableau Dashboard** 
 
 
 
